@@ -1,0 +1,297 @@
+[20:23:54] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.18.2
+[20:23:58] [ForkJoinPool-1-worker-1/WARN]: Mod automobility uses the version 0.5.0.h which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'h'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[20:23:58] [ForkJoinPool-1-worker-1/WARN]: Mod cpm uses the version 0.6.25a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '25a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[20:23:59] [main/WARN]: Warnings were found!
+ - Mod 'Forge Config API Port' (forgeconfigapiport) 21.1.6 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+ - Mod 'Simply Swords' (simplyswords) 1.63.0-1.21.1 recommends version 1.7.2 or later of bettercombat, which is missing!
+	 - You should install version 1.7.2 or later of bettercombat for the optimal experience.
+ - Mod 'Simply Swords' (simplyswords) 1.63.0-1.21.1 recommends version 1.0.0 or later of oracle_index, which is missing!
+	 - You should install version 1.0.0 or later of oracle_index for the optimal experience.
+[20:23:59] [main/INFO]: Loading 126 mods:
+	- appleskin 3.0.6+mc1.21
+	- archers 2.7.0+1.21.1
+	- architectury 13.0.8
+	- arsenal 1.4.2+1.21.1
+	- athena 4.0.5
+	- automobility 0.5.0.h
+	   |-- de_javagl_obj 0.4.0
+	   \-- jsonem 0.3+1.21
+	- azurelibarmor 3.1.3
+	- balm 21.0.57
+	   \-- kuma_api 21.0.8
+	- bundleapi 1.1.0
+	- chipped 4.0.2
+	- cloth-config 15.0.140
+	   \-- cloth-basic-math 0.6.1
+	- cpm 0.6.25a
+	- fabric-api 0.116.11+1.21.1
+	   |-- fabric-api-base 0.4.42+6573ed8c19
+	   |-- fabric-api-lookup-api-v1 1.6.72+7b3d111d19
+	   |-- fabric-biome-api-v1 13.0.31+d527f9fd19
+	   |-- fabric-block-api-v1 1.1.0+0bc3503219
+	   |-- fabric-block-view-api-v2 1.0.11+ebb2264e19
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a719
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8c19
+	   |-- fabric-command-api-v1 1.2.49+f71b366f19
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd919
+	   |-- fabric-commands-v0 0.2.66+df3654b319
+	   |-- fabric-content-registries-v0 8.0.19+b559734419
+	   |-- fabric-convention-tags-v1 2.1.7+7f945d5b19
+	   |-- fabric-convention-tags-v2 2.12.0+c3656daa19
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a719
+	   |-- fabric-data-attachment-api-v1 1.4.6+5b36e0f719
+	   |-- fabric-data-generation-api-v1 20.2.37+60a6976219
+	   |-- fabric-dimensions-v1 4.0.1+65213ef819
+	   |-- fabric-entity-events-v1 1.8.0+2b27e0a419
+	   |-- fabric-events-interaction-v0 0.7.13+ba9dae0619
+	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd919
+	   |-- fabric-item-api-v1 11.2.0+3b3cb2e819
+	   |-- fabric-item-group-api-v1 4.1.7+def88e3a19
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a719
+	   |-- fabric-keybindings-v0 0.2.45+df3654b319
+	   |-- fabric-lifecycle-events-v1 2.6.0+0865547519
+	   |-- fabric-loot-api-v2 3.0.15+3f89f5a519
+	   |-- fabric-loot-api-v3 1.0.3+3f89f5a519
+	   |-- fabric-message-api-v1 6.0.14+8aaf3aca19
+	   |-- fabric-model-loading-api-v1 2.1.0+b4d813fc19
+	   |-- fabric-networking-api-v1 4.3.0+c7469b2119
+	   |-- fabric-object-builder-api-v1 15.2.1+40875a9319
+	   |-- fabric-particles-v1 4.0.2+6573ed8c19
+	   |-- fabric-recipe-api-v1 5.0.15+2475392c19
+	   |-- fabric-registry-sync-v0 5.3.1+e3eddc2119
+	   |-- fabric-renderer-api-v1 3.4.1+b4d813fc19
+	   |-- fabric-renderer-indigo 1.7.1+c705a49c19
+	   |-- fabric-renderer-registries-v1 3.2.69+df3654b319
+	   |-- fabric-rendering-data-attachment-v1 0.3.49+73761d2e19
+	   |-- fabric-rendering-fluids-v1 3.1.6+1daea21519
+	   |-- fabric-rendering-v0 1.1.72+df3654b319
+	   |-- fabric-rendering-v1 5.1.0+ab4c25a019
+	   |-- fabric-resource-conditions-api-v1 4.3.0+8dc279b119
+	   |-- fabric-resource-loader-v0 1.3.1+5b5275af19
+	   |-- fabric-screen-api-v1 2.0.25+8b68f1c719
+	   |-- fabric-screen-handler-api-v1 1.3.90+b559734419
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8c19
+	   |-- fabric-transfer-api-v1 5.4.4+7b3d111d19
+	   \-- fabric-transitive-access-wideners-v1 6.2.0+45b9699719
+	- fabric-language-kotlin 1.13.11+kotlin.2.3.21
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.3.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.3.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.3.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.3.21
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.32.1
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.7.1
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.11.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.11.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.11.0
+	- fabricloader 0.18.2
+	   \-- mixinextras 0.5.0
+	- forgeconfigapiport 21.1.6
+	   |-- com_electronwill_night-config_core 3.8.0
+	   \-- com_electronwill_night-config_toml 3.8.0
+	- framework 0.13.11
+	   |-- org_javassist_javassist 3.29.2-GA
+	   \-- org_reflections_reflections 0.10.2
+	- fwa 1.2.18-hotfix.1
+	- fzzy_config 0.7.6+1.21
+	   |-- blue_endless_jankson 1.2.3
+	   |-- fabric-permissions-api-v0 0.3.1
+	   \-- net_peanuuutz_tomlkt_tomlkt-jvm 0.3.7
+	- jade 15.10.5+fabric
+	- java 21
+	- jei 19.27.0.340
+	- jewelry 2.3.2+1.21.1
+	- mca 7.7.7+1.21.1
+	- minecraft 1.21.1
+	- mutantmonsters 21.1.1
+	- paladins 2.7.1+1.21.1
+	- playeranimator 2.0.4+1.21.1
+	- puzzleslib 21.1.39
+	- ranged_weapon_api 2.3.3+1.21.1
+	- refurbished_furniture 1.0.22
+	- relics_rpgs 1.3.0+1.21.1
+	- resourcefullib 3.0.12
+	   |-- com_teamresourceful_bytecodecs 1.1.2
+	   \-- com_teamresourceful_yabn 1.0.3
+	- rogues 2.7.0+1.21.1
+	- runes 1.2.1+1.21.1
+	- shield_api 2.2.0
+	- simplyswords 1.63.0-1.21.1
+	- simplytooltips 0.1.3
+	- sophisticatedbackpacks 1.21.1-3.23.4.3.106
+	- sophisticatedcore 1.21.1-1.2.9.21.168
+	   |-- porting_lib_conditions 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_core 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_fluids 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_item_abilities 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_lazy_registration 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_level_events 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_loot 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_model_loader 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_render_types 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_transfer 3.1.0-beta.47+1.21.1
+	   \-- team_reborn_energy 4.1.0
+	- spell_engine 1.9.9+1.21.1
+	   \-- tiny_config 3.1.0
+	- spell_power 1.4.6+1.21.1
+	   \-- tiny_config 3.1.0
+	- structure_pool_api 1.2.1+1.21.1
+	- trinkets 3.10.0
+	   |-- cardinal-components-base 6.1.0
+	   \-- cardinal-components-entity 6.1.0
+	- waystones 21.1.30
+	- wizards 2.7.1+1.21.1
+	- xaerominimap 25.3.12
+	   \-- xaerolib 1.1.15
+	- xaeroworldmap 1.40.16
+	   \-- xaerolib 1.1.15
+[20:24:00] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Cobbleverse/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[20:24:00] [main/INFO]: Compatibility level set to JAVA_21
+[20:24:01] [main/WARN]: Reference map 'arsenal-common-common-refmap.json' for arsenal.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:24:01] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:24:01] [main/WARN]: Reference map 'jewelry-common-common-refmap.json' for jewelry.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:24:01] [main/WARN]: Reference map 'mutantmonsters.fabric.refmap.json' for mutantmonsters.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:24:01] [main/WARN]: Reference map 'paladins-common-common-refmap.json' for paladins.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:24:01] [main/WARN]: Reference map 'relics-common-common-refmap.json' for relics_rpgs.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:24:01] [main/WARN]: Reference map 'tiny_config-common-common-refmap.json' for tiny_config.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:24:01] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[20:24:01] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_item_abilities.mixins.json:FishingHookRendererMixin from mod porting_lib_item_abilities
+[20:24:02] [main/WARN]: Error loading class: com/electronwill/nightconfig/core/io/IoUtils (java.lang.ClassNotFoundException: com/electronwill/nightconfig/core/io/IoUtils)
+[20:24:02] [main/WARN]: Error loading class: net/minecraft/class_638 (java.lang.ClassNotFoundException: net/minecraft/class_638)
+[20:24:02] [main/WARN]: @Mixin target net.minecraft.class_638 was not found porting_lib_level_events.mixins.json:client.ClientLevelMixin from mod porting_lib_level_events
+[20:24:02] [main/WARN]: Error loading class: net/minecraft/class_310 (java.lang.ClassNotFoundException: net/minecraft/class_310)
+[20:24:02] [main/WARN]: @Mixin target net.minecraft.class_310 was not found shield_api.mixins.json:client.MinecraftClientMixin from mod shield_api
+[20:24:03] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[20:24:19] [main/INFO]: Customized Bundles!
+[20:24:21] [main/INFO]: Customizable Player Models Initialized
+[20:24:21] [main/INFO]: Customizable Player Models API initialized: Loaded plugins: (0)
+
+[20:24:22] [main/INFO]: Reflections took 614 ms to scan 1 urls, producing 9 keys and 76 values
+[20:24:23] [main/ERROR]: No data fixer registered for seat
+[20:24:24] [main/INFO]: [FWA] Fancy World Animations initialized!
+[20:24:25] [main/ERROR]: No data fixer registered for mca:male_villager
+[20:24:25] [main/ERROR]: No data fixer registered for mca:female_villager
+[20:24:25] [main/ERROR]: No data fixer registered for mca:male_zombie_villager
+[20:24:25] [main/ERROR]: No data fixer registered for mca:female_zombie_villager
+[20:24:25] [main/ERROR]: No data fixer registered for mca:grim_reaper
+[20:24:25] [main/ERROR]: No data fixer registered for mca:crib
+[20:24:25] [main/ERROR]: No data fixer registered for skull_spirit
+[20:24:25] [main/INFO]: Constructing common components for mutantmonsters:main
+[20:24:25] [main/INFO]: Dispatching loading event for config mutantmonsters-common.toml
+[20:24:25] [main/ERROR]: No data fixer registered for creeper_minion
+[20:24:25] [main/ERROR]: No data fixer registered for mutant_creeper
+[20:24:25] [main/ERROR]: No data fixer registered for mutant_enderman
+[20:24:25] [main/ERROR]: No data fixer registered for mutant_skeleton
+[20:24:25] [main/ERROR]: No data fixer registered for mutant_snow_golem
+[20:24:25] [main/ERROR]: No data fixer registered for mutant_zombie
+[20:24:25] [main/ERROR]: No data fixer registered for spider_pig
+[20:24:25] [main/ERROR]: No data fixer registered for body_part
+[20:24:25] [main/ERROR]: No data fixer registered for creeper_minion_egg
+[20:24:25] [main/ERROR]: No data fixer registered for endersoul_clone
+[20:24:25] [main/ERROR]: No data fixer registered for endersoul_fragment
+[20:24:25] [main/ERROR]: No data fixer registered for throwable_block
+[20:24:26] [main/INFO]: Constructing common components for puzzleslib:main
+[20:24:26] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[20:24:26] [main/INFO]: Shield API initialized!
+[20:24:27] [main/INFO]: Loaded config simplyswords:general in 836ms
+[20:24:27] [main/INFO]: Loaded config simplyswords:gem_powers in 546ms
+[20:24:27] [main/INFO]: Loaded config simplyswords:status_effects in 14ms
+[20:24:28] [main/INFO]: Loaded config simplyswords:weapon_attributes in 413ms
+[20:24:29] [main/INFO]: Loaded config simplyswords:unique_effects in 616ms
+[20:24:29] [main/ERROR]: No data fixer registered for battlestandard
+[20:24:29] [main/ERROR]: No data fixer registered for battlestandarddark
+[20:24:29] [main/ERROR]: No data fixer registered for simplyswords:simplybeeentity
+[20:24:29] [main/ERROR]: No data fixer registered for simplyswords:simplyaxolotlentity
+[20:24:29] [main/ERROR]: No data fixer registered for simplyswords:thrown_sword
+[20:24:29] [main/ERROR]: No data fixer registered for simplyswords:frostfall_entity
+[20:24:29] [main/ERROR]: No data fixer registered for simplyswords:livyatan_entity
+[20:24:29] [main/ERROR]: No data fixer registered for simplyswords:spear_entity
+[20:24:29] [main/ERROR]: No data fixer registered for simplyswords:runic_entity
+[20:24:29] [main/INFO]: [STDOUT]: /workspaces/Cobbleverse/servidor_minecraft/config
+[20:24:29] [main/INFO]: Loaded config simplytooltips:config in 38ms
+[20:24:29] [main/INFO]: SimplyTooltips config loaded: simplytooltips:config
+[20:24:29] [main/ERROR]: No data fixer registered for 
+[20:24:30] [main/INFO]: Registering common data for channel xaerolib:main!
+[20:24:30] [main/INFO]: Loading primary common config for channel xaerolib:main!
+[20:24:30] [main/INFO]: Loading server config profiles for channel xaerolib:main!
+[20:24:30] [main/INFO]: Loading XaeroLib common 1/2!
+[20:24:30] [main/INFO]: Loading XaeroLib server 1/2!
+[20:24:30] [main/INFO]: Registering common data for channel xaerominimap:main!
+[20:24:30] [main/INFO]: Loading primary common config for channel xaerominimap:main!
+[20:24:30] [main/INFO]: Loading server config profiles for channel xaerominimap:main!
+[20:24:31] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[20:24:31] [main/INFO]: Registering common data for channel xaeroworldmap:main!
+[20:24:31] [main/INFO]: Loading primary common config for channel xaeroworldmap:main!
+[20:24:31] [main/INFO]: Loading server config profiles for channel xaeroworldmap:main!
+[20:24:31] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[20:24:31] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:24:34] [Worker-Main-1/INFO]: Loaded config simplyswords:loot in 43ms
+[20:24:37] [main/INFO]: Loaded 3111 recipes
+[20:24:38] [main/INFO]: Loaded 3097 advancements
+[20:24:40] [main/INFO]: Applied 372 biome modifications to 64 of 64 new biomes in 44.77 ms
+[20:24:40] [Server thread/INFO]: Dispatching loading event for config mutantmonsters-server.toml
+[20:24:41] [Server thread/INFO]: Loading server configs...
+[20:24:41] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): ??? bytes (in 4 string chunks with the size of 10000)
+[20:24:41] [Server thread/INFO]: Loading XaeroLib common 2/2!
+[20:24:41] [Server thread/INFO]: Loading XaeroLib server 2/2!
+[20:24:41] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[20:24:41] [Server thread/INFO]: Loading properties
+[20:24:41] [Server thread/INFO]: Default game type: SURVIVAL
+[20:24:41] [Server thread/INFO]: Generating keypair
+[20:24:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:24:41] [Server thread/INFO]: Using epoll channel type
+[20:24:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:24:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:24:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:24:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:24:41] [Server thread/INFO]: Preparing level "world"
+[20:24:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:24:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:24:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:24:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:24:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:24:51] [Server thread/INFO]: Time elapsed: 2164 ms
+[20:24:51] [Server thread/INFO]: Done (10.250s)! For help, type "help"
+[20:24:51] [Server thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.compat.hudinfo.FabricJadeModCompat
+[20:24:51] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[20:24:51] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[20:24:51] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[20:24:51] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[20:24:51] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[20:24:51] [Server thread/INFO]: Start loading plugin from Waystones: net.blay09.mods.waystones.compat.JadeIntegration
+[20:24:51] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[20:24:51] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[20:36:42] [Server thread/INFO]: Foxi_Castillo[/127.236.157.252:35071] logged in with entity id 94 at (-1171.9895758653724, 72.0, 1203.2598926743522)
+[20:36:42] [Server thread/INFO]: Foxi_Castillo joined the game
+[20:36:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2254ms or 45 ticks behind
+[20:37:17] [Server thread/INFO]: [Foxi_Castillo: Set the time to 1000]
+[20:37:27] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=46, y=-58, z=13}
+[20:37:27] [Worker-Main-2/WARN]: Skipping Entity with id dummmmmmy:target_dummy
+[20:37:28] [Server thread/INFO]: [Foxi_Castillo: Set the weather to clear]
+[20:37:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6951ms or 139 ticks behind
+[20:37:28] [Server thread/WARN]: Foxi_Castillo moved too quickly! 6.0911921379668,2.8056075431341583,-7.545059998744819
+[20:38:15] [Server thread/WARN]: Foxi_Castillo moved too quickly! -7.226180035116386,0.0,-7.053281066502905
+[20:38:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20:42:01] [Server thread/INFO]: Foxi_Castillo has made the advancement [Take Aim]
+[20:45:51] [Server thread/INFO]: EsteSiEsKaos[/127.234.75.50:60093] logged in with entity id 2569 at (-1141.5, 70.0, 1199.5)
+[20:45:51] [Server thread/INFO]: EsteSiEsKaos joined the game
+[20:49:59] [Server thread/INFO]: [Foxi_Castillo: Set the time to 1000]
+[20:50:23] [Server thread/INFO]: [Foxi_Castillo: Teleported Foxi_Castillo to EsteSiEsKaos]
+[20:50:44] [Server thread/INFO]: [Foxi_Castillo: Teleported Foxi_Castillo to -1352.500000, 78.500000, 1323.500000]
+[20:51:59] [Server thread/INFO]: [Foxi_Castillo: Teleported Foxi_Castillo to EsteSiEsKaos]
+[20:52:45] [Server thread/INFO]: [Foxi_Castillo: Made EsteSiEsKaos a server operator]
+[20:52:51] [Server thread/INFO]: EsteSiEsKaos has made the advancement [Monster Hunter]
+[20:53:13] [Server thread/INFO]: [EsteSiEsKaos: Set own game mode to Creative Mode]
+[20:54:12] [Server thread/INFO]: [Foxi_Castillo: Set own game mode to Survival Mode]
+[20:54:14] [Server thread/INFO]: EsteSiEsKaos has made the advancement [Cover Me with Diamonds]
+[20:54:22] [Server thread/INFO]: [Foxi_Castillo: Set own game mode to Creative Mode]
+[20:54:25] [Server thread/INFO]: [Foxi_Castillo: Set EsteSiEsKaos's game mode to Survival Mode]
+[20:54:44] [Server thread/INFO]: EsteSiEsKaos was slain by Mutant Creeper
+[20:54:44] [Server thread/INFO]: EsteSiEsKaos has made the advancement [Mutant Monsters]
+[20:55:19] [Server thread/INFO]: EsteSiEsKaos was blown up by Mutant Creeper
+[20:55:47] [Server thread/INFO]: Foxi_Castillo has made the advancement [Cover Me with Diamonds]
+[21:05:01] [Server thread/INFO]: [Foxi_Castillo: Set the time to 1000]
